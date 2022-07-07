@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Brichka+Dev.++++++++++)](https://git.io/typing-svg)
+
 ![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brichka-Dv&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brichka-Dv&layout=compact)
 
