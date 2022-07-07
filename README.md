@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brichka-Dv&show_icons=true&theme=tokyonight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brichka-Dv&repo=github-readme-stats)](https://github.com/Brichka-Dv/github-readme-stats)
